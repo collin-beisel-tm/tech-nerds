@@ -1,5 +1,7 @@
 const { Post } = require('../models');
 
+//UPDATE Seeds to include title and body instead of url.
+
 const postdata = [
   {
     title: 'Donec posuere metus vitae ipsum.',

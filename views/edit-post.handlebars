@@ -4,9 +4,12 @@
     Edit Post
   </h2>
   <form class="edit-post-form">
+
+    <!-- Edit to remove url and add body -->
     <div>
       <input name="post-title" type="text" value="{{post.title}}" />
-      <span>({{format_url post.post_url}})</span>
+      <input name="post-body" type="text" value="{{post.body}}" />
+      <span>({{post.body}})</span>
     </div>
     <div>
       {{post.vote_count}} {{format_plural "point" post.vote_count}} by you on {{format_date post.created_at}}
