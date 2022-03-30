@@ -15,6 +15,8 @@
   * [User Story](#User-Story)
   * [Acceptance Criteria](#acceptance-criteria)
 
+  ![Tech Nerds Screenshot](https://github.com/collin-beisel-tm/tech-nerds/blob/main/public/images/screenshot.PNG)
+
 ## Links
  - Github Repo: https://github.com/collin-beisel-tm/tech-nerds
  - Deployed Heroku App: https://tech-nerds-mvc.herokuapp.com/
