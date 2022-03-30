@@ -1,3 +1,60 @@
+# Tech Nerds Blog
+
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
+ ## Table of Contents
+  * [Links](#links)
+  * [Description](#app-descriptino)
+  * [Technologies Used](#technologies-used)
+  * [Why I Built](#why-did-i-build-this-project)
+  * [What I learned](#what-did-i-learn)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Tests](#tests)
+  * [User Story](#User-Story)
+  * [Acceptance Criteria](#acceptance-criteria)
+
+![Portfolio Screenshot](https://github.com/collin-beisel-tm/cb-builds-tech/blob/main/src/Images/readme-screenshot1.PNG)
+
+## Links
+ - Github Repo: https://github.com/collin-beisel-tm/tech-nerds
+ - Deployed Heroku App: 
+ ## App Description
+
+A simple blog style website.
+
+## Technologies used
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+- Sequelize ORM
+- Handlebars.JS
+- Git/GitHub
+- Heroku
+
+## Why did I build this project?
+I built this project as an assignment for SMU's full stack web development bootcamp.
+
+## What did I learn?
+I learned how to create a blog style site using the Model View Controller method.
+
+## Installation
+ - No install required for this one!
+ - Navigate to the deployed application at  and enjoy!
+
+## license
+MIT License
+
+Copyright (c) [2021] [CollinBeisel]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ## User Story
 AS A developer who writes about tech
 I WANT a CMS-style blog site
