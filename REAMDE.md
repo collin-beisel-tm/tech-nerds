@@ -15,11 +15,9 @@
   * [User Story](#User-Story)
   * [Acceptance Criteria](#acceptance-criteria)
 
-![Portfolio Screenshot](https://github.com/collin-beisel-tm/cb-builds-tech/blob/main/src/Images/readme-screenshot1.PNG)
-
 ## Links
  - Github Repo: https://github.com/collin-beisel-tm/tech-nerds
- - Deployed Heroku App: 
+ - Deployed Heroku App: https://tech-nerds-mvc.herokuapp.com/
  ## App Description
 
 A simple blog style website.
@@ -42,7 +40,7 @@ I learned how to create a blog style site using the Model View Controller method
 
 ## Installation
  - No install required for this one!
- - Navigate to the deployed application at  and enjoy!
+ - Navigate to the deployed application at https://tech-nerds-mvc.herokuapp.com/ and enjoy!
 
 ## license
 MIT License
